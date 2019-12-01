@@ -20,7 +20,7 @@ namespace CW4
         private void button1_Click(object sender, EventArgs e)
         {
             Tabela f = new Tabela();
-            f.ShowDialog();     
+            f.ShowDialog();     // pokaz okno
         }
 
         private void button2_Click(object sender, EventArgs e)
