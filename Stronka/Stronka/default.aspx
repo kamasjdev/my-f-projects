@@ -23,7 +23,7 @@
                 <asp:Label ID="Label3" runat="server" Text="Azure Web Chat"></asp:Label>
             </h1>
         </div>
-        <h3>by K.Wojtasiński</h3>
+        <h3>by imie</h3>
         <p>
             <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">Logowanie</asp:LinkButton>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
