@@ -5,7 +5,7 @@
     <Setting Name="labdbConnectionString" Type="(Connection string)" Scope="Application">
       <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
 &lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;ConnectionString&gt;Data Source=maciek-server.database.windows.net;Initial Catalog=labdb;User ID=maciek-admin;Password=Legut123&lt;/ConnectionString&gt;
+  &lt;ConnectionString&gt;Data Source=xxx-server.database.windows.net;Initial Catalog=labdb;User ID=;Password=&lt;/ConnectionString&gt;
   &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
 &lt;/SerializableConnectionString&gt;</DesignTimeValue>
       <Value Profile="(Default)">Data Source=maciek-server.database.windows.net;Initial Catalog=labdb;User ID=maciek-admin;Password=Legut123</Value>
